@@ -10,10 +10,10 @@ AIM : Create an Video player and Youtube player application by following below i
 
       VIDEO VIEW :
       
-      ![image](https://github.com/vikaslohar21/MAD_Practical-7_21012011158/assets/98016883/ece0bc5b-5ad0-4493-b20e-7a2432904dd6)
+![image](https://github.com/vikaslohar21/MAD_Practical-7_21012011158/assets/98016883/ece0bc5b-5ad0-4493-b20e-7a2432904dd6)
 
       WEB VIEW : 
 
-      ![image](https://github.com/vikaslohar21/MAD_Practical-7_21012011158/assets/98016883/eb3f47d0-f29a-4e14-9dad-5797875adaef)
+![image](https://github.com/vikaslohar21/MAD_Practical-7_21012011158/assets/98016883/feeb111b-5555-42ca-9f41-f8faf5fd76bb)
 
       
